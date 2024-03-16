@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Shayne May. I'm a future Developer in training
+- 👀 I’m interested in Mobile & Web Development
+- 🌱 I’m currently learning Flutter, ReactJS, React Native for mobile, Node.js, Express.js, REST API and Mongo DB
+- 💞️ I’m looking to collaborate with anyone with projects to better my skills
+- 📫 How to reach me: DM me on IG.
+- 😄 Pronouns: ...
+- ⚡ Fun fact: I strive under pressure and have a creative mind
